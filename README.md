@@ -62,3 +62,13 @@ To identify the most valuable customers, this table lists the top 10 users by th
 This line chart visualizes spending trends on a monthly basis, with separate lines for each year. The analysis shows:
 *   **Stable Performance:** For the full years of 2023 and 2024, spending was relatively stable and consistent after an initial ramp-up, generally hovering between $1.0M and $1.1M per month.
 *   **Incomplete Data for 2025:** The sharp decline seen for 2025 is expected, as the dataset only contains transactions for the first couple of months of that year. This highlights the importance of context when analyzing time-series data.
+
+
+## Data Source
+
+The data used for this project is a simulated e-commerce transactions dataset sourced from Kaggle. It provides a realistic structure for analyzing customer behavior, product performance, and transaction patterns.
+
+*   **Dataset:** [E-Commerce Transactions Dataset](https://www.kaggle.com/datasets/smayanj/e-commerce-transactions-dataset)
+*   **Source:** Kaggle
+*   **Author:** Mayank Sharma
+*   **Note:** The data is synthetically generated and does not contain any real customer, product, or financial information.
